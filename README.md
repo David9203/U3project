@@ -5,9 +5,9 @@ The steps below are necessary to download and  run the model
 
 - run the down.py to automatically download the resources. 
 
-## Best attemps 
+## Best attemps 87% accuracy
 
-
+Final.ipynb
 
 ## Failed Attemps 
 The hd5 models for the next notebooks can be download to this link https://drive.google.com/open?id=1R1pN0bzYrhObz7FmNMkUqdtTQFKN2pdZ only for udea users
